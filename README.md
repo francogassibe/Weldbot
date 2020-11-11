@@ -10,4 +10,4 @@
     Generating the trajectories
     Simulation
     
-    The detailed information of the project is on the  'explanaition'  power point presentation.
+    The detailed information of the project is on the  'explanaition'  power point presentation on the TF_Robotica1 file.
