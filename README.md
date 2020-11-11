@@ -1,9 +1,9 @@
      
-    This is a Robotics proyect where we are going to be working on the fundamentals of kinematics. 
+    This is a Robotics project on the fundamentals of kinematics. 
 
-    We choosed 5 degrees of freedom Robot for welding.
+    We choosed 5 degrees of freedom Robot for welding aplications.
 
-    
+    The project has the following subjects:
     Workspace and reach of the task
     Direct kinematics
     Inverse kinematic
