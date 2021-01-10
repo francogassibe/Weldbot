@@ -11,7 +11,7 @@
     Inverse kinematic
     Generating the trajectories
     Simulation
-    
+     
     The detailed information of the project is on the  'explanaition'  power point presentation
     in the TF_Robotica1 file.
     And in case of not having matlab for runing the simulations 
