@@ -1,4 +1,4 @@
-    £Introduction to weldbot project 
+    #Introduction to weldbot project 
     This is a Robotics project on the fundamentals of kinematics. 
 
     We choosed 5 degrees of freedom Robot for welding aplications.
