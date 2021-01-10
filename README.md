@@ -9,10 +9,16 @@ We choosed 5 degrees of freedom Robot for welding aplications.
 
 The project contains the following subjects:
     Workspace and reachspace of the task
+    
     Direct kinematics
+   
     Inverse kinematic
+    
     Generating the trajectories
+    
     Simulation
+     
+     
      
    The detailed information of the project is on the  'explanaition'  power point presentation
    in the TF_Robotica1 file.
