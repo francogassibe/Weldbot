@@ -3,7 +3,7 @@
 
     We choosed 5 degrees of freedom Robot for welding aplications.
     
-
+![](Capture.PNG)
 
     The project contains the following subjects:
     Workspace and reachspace of the task
